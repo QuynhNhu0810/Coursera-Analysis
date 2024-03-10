@@ -1,7 +1,25 @@
 **COURSERA DATASET**: https://www.kaggle.com/datasets/elvinrustam/coursera-dataset/data
 
 - The Coursera dataset contains information regarding various courses available on the Coursera platform. Each row represents a different course and its attributes including title, rating, level, schedule, learning objectives, instructor details, offering institution, keywords, course URL, duration to complete, and the number of reviews.
+- I use SQL for querying and Power BI for visualization.
 
-MAIN CONCLUSION
-![image](https://github.com/QuynhNhu0810/Coursera-Analysis/assets/144129608/1a7a95ef-101b-46c7-adb0-cb3a8209e85f)
+**DATA CLEANING STEPS**
+- Some of the course titles in the dataset are in the wrong format, so I exclude courses with characters "???"
+- Check for mising values on Course_Title and Rating
+- Remove duplicate rows
+
+**MAIN CONCLUSION**
+
+![image](https://github.com/QuynhNhu0810/Coursera-Analysis/assets/144129608/39b1657f-7cc6-4388-b608-5a04f7d66a51)
+
+The majority of courses fall into the Beginner level category, indicating a high demand for introductory courses.
+
+![image](https://github.com/QuynhNhu0810/Coursera-Analysis/assets/144129608/728fe5ec-f0f9-403a-aff5-a2346d196d63)
+
+I categorize the courses based on their duration: Courses longer than 20 hours is considered Long, and less than 10 is Short. We can see that long courses are the most common on the platform, followed by Medium.
+
+![image](https://github.com/QuynhNhu0810/Coursera-Analysis/assets/144129608/c1a768b8-ba56-4d6a-a688-55ad0c267e56)
+
+I want to know what are the most teached skills on Coursera. Some of the most common skills are: Data Analysis, Python Programming, Machine Learning...
+
 
