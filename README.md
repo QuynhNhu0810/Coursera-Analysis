@@ -22,4 +22,13 @@ I categorize the courses based on their duration: Courses longer than 20 hours i
 
 I want to know what are the most teached skills on Coursera. Some of the most common skills are: Data Analysis, Python Programming, Machine Learning...
 
+![image](https://github.com/QuynhNhu0810/Coursera-Analysis/assets/144129608/1ff0ca15-506d-443c-96b9-631ce107cc36)
+
+I want to analyse the keywords associated with the courses by total reviews. Data Science and Computer Science received the most reviews.
+
+![image](https://github.com/QuynhNhu0810/Coursera-Analysis/assets/144129608/7848bf57-17b2-4d4b-b483-daf04c2047d0)
+
+Here's the top 10 institutions offering the most courses and their average rating. University of Colorado has more than 200 courses on the platform. But Google received the highest average rating from learners.
+
+
 
